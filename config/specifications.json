@@ -1,0 +1,30 @@
+{
+    "electronics": {
+        "Iddq_168h_uA": {
+            "min": 0,
+            "max": 50,
+            "warning_max": 40,
+            "unit": "uA"
+        },
+
+        "Leakage_168h_uA": {
+            "min": 0,
+            "max": 50,
+            "warning_max": 40,
+            "unit": "uA"
+        },
+
+        "Delay_168h_ns": {
+            "min": 0,
+            "max": 30,
+            "warning_max": 24,
+            "unit": "ns"
+        }
+    },
+
+    "mechanical": {},
+
+    "medical": {},
+
+    "aerospace": {}
+}

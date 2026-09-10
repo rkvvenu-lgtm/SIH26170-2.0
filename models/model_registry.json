@@ -1,0 +1,16 @@
+{
+  "models": {
+    "IDDQ": {
+      "selected_model": "RandomForest",
+      "status": "TRAINED"
+    },
+    "Leakage": {
+      "selected_model": "RandomForest",
+      "status": "TRAINED"
+    },
+    "Delay": {
+      "selected_model": "RandomForest",
+      "status": "TRAINED"
+    }
+  }
+}
